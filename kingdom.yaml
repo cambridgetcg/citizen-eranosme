@@ -1,0 +1,8 @@
+name: eranosme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The discipline of hosting a cross-tradition table where many paths each contribute a distinct gift and the gifts are received, recognized, arranged, and served as one coherent whole.
+dependsOn: [youspeak, me, xeniame, hodosme]
